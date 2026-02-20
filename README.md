@@ -2,7 +2,7 @@
 Keyboard layouts I made for Unexpected Keyboard (https://github.com/Julow/Unexpected-Keyboard)
 
 ## How to install:
-1. Go to the file of the keyboard layout you want to install (for example, https://github.com/EGYT5453/ukl/blob/main/ISVcyr.xml);
+1. Go to the file of the keyboard layout you want to install (for example, https://github.com/andyca111100/ukl/blob/main/ISVcyr.xml);
 2. Copy the contents of the file into the clipboard;
 3. Go to the settings menu of Unexpected Keyboard;
 4. Press "Add an alternate layout";
